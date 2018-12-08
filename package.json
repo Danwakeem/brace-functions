@@ -34,6 +34,7 @@
     "gulp-if": "^2.0.2",
     "gulp-rename": "^1.2.2",
     "gulp-zip": "^4.1.0",
+    "lodash": "^4.17.11",
     "minimatch": "^3.0.4",
     "request": "^2.87.0",
     "request-promise": "^4.2.2"
